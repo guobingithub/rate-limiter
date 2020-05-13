@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/garyburd/redigo/redis"
-	"guobin/rate-limiter/logger"
+	"guobingithub/rate-limiter/logger"
 )
 
 const (

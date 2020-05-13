@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 	"github.com/garyburd/redigo/redis"
-	"guobin/rate-limiter/db"
-	"guobin/rate-limiter/logger"
+	"guobingithub/rate-limiter/db"
+	"guobingithub/rate-limiter/logger"
 	"time"
 )
 

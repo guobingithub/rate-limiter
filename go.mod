@@ -1,4 +1,4 @@
-module guobin/rate-limiter
+module guobingithub/rate-limiter
 
 go 1.13
 
